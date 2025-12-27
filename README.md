@@ -1,8 +1,4 @@
-Itaú Unibanco - Desafio de Programação
-Este é um desafio bacana tanto de desenvolvimento de software quanto de engenharia de software. Queremos testar sua capacidade de construir um software com várias partes diferentes funcionando em conjunto!
-
-1. Introdução
-Sua missão, caso você aceite, é criar uma API REST que recebe Transações e retorna Estatísticas sob essas transações. Para este desafio, a API deve ser criada utilizando-se de Java ou Kotlin e Spring Boot.
+Criar uma API REST que recebe Transações e retorna Estatísticas sob essas transações. Para este desafio, a API deve ser criada utilizando-se de Java ou Kotlin e Spring Boot.
 
 Um bom lugar para se começar é o Spring Starter.
 
@@ -105,3 +101,4 @@ Tratamento de Erros: O Spring Boot dá às pessoas desenvolvedoras ferramentas p
 Documentação da API: Você consegue documentar sua API? Existem ferramentas e padrões que podem te ajudar com isso!
 Documentação do Sistema: Sua aplicação provavelmente precisa ser construída antes de ser executada. Você consegue documentar como outra pessoa que pegou sua aplicação pela primeira vez pode construir e executar sua aplicação?
 Configurações: Você consegue deixar sua aplicação configurável em relação a quantidade de segundos para calcular as estatísticas? Por exemplo: o padrão é 60 segundos, mas e se o usuário quiser 120 segundos?
+
