@@ -1,0 +1,11 @@
+# Variáveis
+@host = http://localhost:8080
+
+### Criar um transação
+POST {{host}}/transacao
+Content-Type: application/json
+
+{
+  "valor": 1,
+  "dataHora": "2026-06-15T10:00:00-03:00"
+}
